@@ -14,8 +14,9 @@ To install the repository run `git clone https://github.com/ISSUIUC/RASC-AL22.gi
 Note: We recommend using the C++ translation instead of the FORTRAN model, not only is it more precise but it is far less complicated to work with. Any questions can be sent to Ana Bojinov at aboji2 @ illinois.edu
 
 ## Run the Fortran Code 
-1. `make fortran` you should see a file called fortran.out be generated
-2. `./fortran.out`
+1. Edit the line `OPEN(unit=9,FILE="/Users/alanwang/Desktop/input.txt")` so that the input file links to the folder you have it stored in
+2. `make fortran` you should see a file called fortran.out be generated
+3. `./fortran.out`
 **The output is in the file `OUTPUT_MARS.DAT`**
 
 Note: there is a shortcut to run everything above much quicker but there must be a file called `OUTPUT_MARS.DAT` in the folder. If that condition is met then 
