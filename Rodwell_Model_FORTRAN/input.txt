@@ -1,0 +1,22 @@
+216.0         ! TZ3   = hrs
+12186.0       ! MG0   = gallons, initialized bulb volume
+68242.84      ! QBC   = btu/hr
+52073.00        ! MF    = lbm/hr, Boiler mass flow rate
+2064.0        ! TZ4   = hrs
+68242.84      ! QBC1  = btu/hr
+10.0          ! MUG1  = gal/day, initial withdrawal
+52073.0       ! MF1   = lbm/hr, boiler mass flow rate
+96.0          ! TZ5   = hrs
+0.0           ! QBC2  = btu/hr
+52073.0       ! MF2   = lbm/hr, boiler mass flow rate
+5088.0        ! TZ6   = hrs
+68242.84      ! QBC3  = btu/hr
+68242.84      ! QBC4  = btu/hr
+68242.84      ! QBC5  = btu/hr
+160.0         ! DEPTH = ft
+52073.0       ! MFS   = lbm/hr, summer boiler mass flow rate
+52073.0       ! MFW   = lbm/hr, winter boiler mass flow rate
+10.0          ! MUGS  = gal/day, summer withdrawal rate
+10.0          ! MUGW  = gal/day, winter withdrawal rate
+-80.0         ! deg F, TICE, Firn temperature
+68.0          ! deg F, Boiler water temperature
