@@ -70,6 +70,11 @@ There was a repetive output code that was changed into a function `print_initial
 The includes were also moved to this file. They are linked together by the Makefile. 
 
 # 2. Rodwell Plotter
+Plotting outputs from the C code:
+* If you have anaconda open up the python notebook in `dataParser/output_parser_c.ipynb` 
+
+Plotting outputs from FORTRAN code:
+* Or in terminal run `python dataParser/table_reader.py` to read the table data and `python dataParser/non_table_reader.py` for non table data
 
 # 3. Thermal Model
 
