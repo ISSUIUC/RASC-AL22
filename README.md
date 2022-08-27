@@ -9,7 +9,7 @@ This repository includes code for multiple different functions:
   
 # 1. RODWELL MODEL:
 # Instructions 
-To install the repository run `git clone ADD URL ANA!!!`
+To install the repository run `git clone https://github.com/ISSUIUC/RASC-AL22.git!!!`
 
 Note: We recommend using the C++ translation instead of the FORTRAN model, not only is it more precise but it is far less complicated to work with. Any questions can be sent to Ana Bojinov at aboji2 @ illinois.edu
 
