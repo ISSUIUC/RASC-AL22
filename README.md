@@ -5,7 +5,8 @@ This repository includes code for multiple different functions:
   1. A Rodwell model that outputs depth, diameter, required thermal power, etc for Rodwells
   2. A data parser that sorts and plots the outputs of the Rodwell model
   3. A thermal model to calculate heat loss in pipes
-  4. A costs analysis calculator
+  4. A cost analysis calculator
+  5. A total power calculator
   
 # 1. RODWELL MODEL:
 # Instructions 
@@ -77,7 +78,10 @@ Plotting outputs from FORTRAN code:
 * Or in terminal run `python dataParser/table_reader.py` to read the table data and `python dataParser/non_table_reader.py` for non table data
 
 # 3. Thermal Model
-If you have anaconda open up the python notebook in ...
+This model is a python file so you can run it using your terminal.
 
 # 4. Cost Analysis Calculator
-If you have anaconda open up the python notebook in ...
+If you have anaconda open up the python notebook using jypiter notebooks.
+
+# 5. Power Calculator
+If you have anacondo open up the python notebook using jypiter notebooks.
