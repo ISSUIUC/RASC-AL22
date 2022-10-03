@@ -84,4 +84,4 @@ This model is a python file so you can run it using your terminal.
 If you have anaconda open up the python notebook using jypiter notebooks.
 
 # 5. Power Calculator
-If you have anacondo open up the python notebook using jypiter notebooks.
+If you have anaconda open up the python notebook using jypiter notebooks.
